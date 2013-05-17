@@ -1,4 +1,4 @@
 psychic-adventure
 =================
 
-a test repository
+Updated Read me file
